@@ -21,7 +21,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Minhas Habilidades
 <table><tr><td valign="top" width="33%">
 
 
@@ -64,7 +64,7 @@
 <br/>  
 
 
-## Connect with me  
+## Contacte-me  
 <div align="center">
 <a href="https://github.com/melvinnunes" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -87,7 +87,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Posts recentes  
   
 
 <br/>  
