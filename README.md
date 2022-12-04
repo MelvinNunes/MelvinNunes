@@ -6,7 +6,7 @@
 ### **<div align="center">Hi, I’m @MelvinNunes, a full-time full-stack and a freelance developer 👨‍💻🚀</div>**  
   
 
-- 🔭Atualmente, estou a trabalhar nos projectos privados da Dataset e da Volet  
+- 🔭Atualmente, estou a trabalhar em projectos privados 
   
 
 - 🌱 Estou a aprender Flutter e React Native no momento  
