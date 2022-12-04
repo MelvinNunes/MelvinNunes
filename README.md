@@ -63,7 +63,8 @@
 
 <br/>  
 
-<a href="https://stardev.io/developers/MelvinNunes"><img alt="Check out MelvinNunes's profile on stardev.io" src="https://stardev.io/developers/MelvinNunes/badge/languages/global.svg" /></a>
+## Github Stats  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinNunes)] 
 
 
 ## Contacte-me  
@@ -83,8 +84,7 @@
 <br/>  
 
 
-## Github Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinNunes)](https://github.com/MelvinNunes/github-readme-stats) 
+
 
 <br/>  
 
