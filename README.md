@@ -7,12 +7,8 @@
   
 
 - 🔭Atualmente, estou a trabalhar em projectos privados 
-  
 
-- 🌱 Estou a aprender Flutter e React Native no momento  
-  
-
-- ❓ Pergunte-me qualquer assunto relacionado com ReactJS, Python e/ou Java  
+- ❓ Pergunte-me qualquer assunto relacionado a Backend, Engenharia de Software ou DevOps  
   
 
 - ⚡ Fun Fact: Eu desenvolvo mais do que vivo lol 😂  
